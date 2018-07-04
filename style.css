@@ -1,0 +1,29 @@
+.s_border, .send{
+    border:1px solid rgb(204,204,204);
+    height:400px;
+    width:900px;
+    margin:20px auto ;
+}
+.send{
+    border:none;
+    height:400px;
+    width:900px;
+}
+.dia_text{
+    text-align:center;
+    width:500px;
+    height:40px;
+    background:transparent;
+    border:1px solid #ffffff;
+    border-radius:10px;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, .3);
+    -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, .3);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, .3);
+
+}
+.input_text{
+    margin:40px 200px auto;
+}
+.send_btn1{
+
+}
